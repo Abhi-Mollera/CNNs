@@ -1,0 +1,1 @@
+A notebook to create a basic CNN and train it on the CIFAR-10 dataset. After training, we evaluate, quantize and export to ONNX format for deployment. I created this notebook to run on a conda kernel with all the required packages.
